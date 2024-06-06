@@ -1,0 +1,50 @@
+.about-container {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.about-title {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.about-logo {
+  display: block;
+  margin: 0 auto 10px auto;
+  border-radius: 50%;
+}
+
+.about-description {
+  font-size: 16px;
+  color: #666;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.about-images {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.about-images .figure {
+  text-align: center;
+}
+
+.about-contact {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.about-contact h2 {
+  color: #333;
+}
+
+.about-contact p {
+  font-size: 14px;
+  color: #666;
+}
