@@ -1,0 +1,32 @@
+/* App.css */
+.App {
+  text-align: center;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column; /* Align children vertically */
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  animation: flashGreen 4s infinite;
+}
+
+@keyframes flashGreen {
+  0% {
+    background-color: green;
+  }
+  50% {
+    background-color: white;
+  }
+  100% {
+    background-color: green;
+  }
+}
+
+h1 {
+  width: 100%; /* Ensure each h1 takes up the full width */
+  margin: 10px 0; /* Add some margin for spacing */
+  color: #000;
+  text-align: center; /* Centre the text */
+}
