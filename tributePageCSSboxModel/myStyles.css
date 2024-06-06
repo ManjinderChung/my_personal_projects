@@ -1,0 +1,23 @@
+p {
+    text-align: left;
+    color: blue;
+        
+}
+
+#first-para {
+    text-align: center;
+    color: darkgreen;
+    
+}
+body {
+    background-color: rgb(90, 121, 119);
+    padding: 50px;
+}
+
+.headings {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}
+
+
