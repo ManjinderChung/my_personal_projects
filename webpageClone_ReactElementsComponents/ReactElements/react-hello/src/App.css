@@ -1,0 +1,17 @@
+#Heading1
+{
+  background-color: #1d5ee0;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin)
+}
+
+#firstPara {
+  background-color: aquamarine;
+  font-style: italic;
+}
+
+#secondPara{
+  background-color: chocolate;
+  font-family:Arial, Helvetica, sans-serif;
+}

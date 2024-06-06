@@ -1,0 +1,92 @@
+#firstHeading {
+  font-size: 60px;
+  width: 500px;
+  padding-left: 200px;
+  margin: 20px;
+  float: right;
+  
+}
+
+#xLogo {
+  transform: scale(3);
+  padding-left: 180px;
+  width: 100px;
+  margin-top: 200px;
+  float: left;
+}
+
+#secondHeading {
+  font-size: 30px;
+  width: 500px;
+  padding-left: 200px;
+  margin: 20px;
+  float: right;
+
+}
+
+#firstButton{
+  display: block;
+  margin-inline-start: 740px;
+  border-radius: 200px;
+  width: 250px;
+  height: 35px;
+  background: white;
+  
+}
+
+#secondButton{
+  display: block;
+  margin-inline-start: 740px;
+  border-radius: 200px;
+  width: 250px;
+  height: 35px;
+  background: white;
+  color:rgb(7, 7, 7);
+  font-weight: 700;
+}
+
+#orLine {
+   margin-inline-start: 800px;
+}
+
+#thirdButton{
+  display: block;
+  margin-inline-start: 740px;
+  background: rgb(4, 149, 233);
+  border-radius: 200px;
+  color: white;
+  font-weight:700 ;
+  width: 250px;
+  height: 35px;
+   
+}
+
+#fourthButton{
+  display: block;
+  margin-inline-start: 740px;
+  border-radius: 200px;
+  width: 250px;
+  height: 35px;
+  background: white;
+  color:rgb(30, 128, 255);
+  font-weight: 700;  
+}
+
+#disclaimer{
+  margin-inline-start: 740px;
+  word-wrap: break-word;
+  font-size: x-small;
+  width: 220px
+}
+
+#account {
+  margin-inline-start: 740px;
+  font-weight: 700;
+}
+
+#footer {
+  margin-inline-start: 100px;
+  font-size: small;
+  text-align: center;
+  text-wrap: pretty;
+}
